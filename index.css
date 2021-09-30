@@ -1,0 +1,6 @@
+
+/* 1 task */
+.container p:nth-child(3){
+  color: red;
+  background-color: black;
+}
